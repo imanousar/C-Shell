@@ -1,40 +1,33 @@
-C Shell Implemantation - Operating Systems Project 2018-2019
+## C Shell Implemantation - Operating Systems Project 2018-2019
 
-##############################################################################################
-INSTALL & RUN
+
+#### INSTALL & RUN
 
 - Download the files
 - Unzip
 - Make
 - ./myshell
 
-##############################################################################################
-MODES
+#### MODES
 
 - Interactive
 - Batch
 
 
-##############################################################################################
-BUILT-IN FUNCTIONS
+#### BUILT-IN FUNCTIONS
 
 - help
 - quit
 - history
 - cd
 
-##############################################################################################
-SIGNALS MODIFIED
+#### SIGNALS MODIFIED
 
 - CTRL+C
 - CTRL+Z
 
-##############################################################################################
-SYSTEM COMMANDS
+#### SYSTEM COMMANDS
 
-- redirections >,>>,<   ex. echo hi>test.txt; cat < tets.txt
-- simple pipes  	ex. ls | wc -l 
-- seperators &&, ;      ex. pwd ; ls|tail -3 && pwd 
-
-##############################################################################################
-
+- redirections >,>>,<       
+- simple pipes  	          
+- seperators &&, ;          
